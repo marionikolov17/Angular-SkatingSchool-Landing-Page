@@ -1,0 +1,40 @@
+/** shop section **/
+
+.shop {
+  background: #fff;
+}
+
+.shop .titlepage {
+  padding-bottom: 0;
+  max-width: 458px;
+  float: left;
+}
+
+.shop .titlepage h2 {
+  padding-bottom: 30px;
+  color: #2d2c2c;
+}
+
+.shop .titlepage p {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  color: #282828;
+  padding-bottom: 29px;
+}
+
+.shop_img {
+  padding-left: 40px;
+}
+
+.shop_img figure {
+  margin: 0;
+}
+
+.shop .titlepage .read_more::before {
+  left: 89px;
+}
+
+
+/** end shop section **/
+
