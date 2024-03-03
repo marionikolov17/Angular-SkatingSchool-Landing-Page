@@ -7,12 +7,14 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { NgxBootstrapIconsModule, allIcons } from "ngx-bootstrap-icons";
 import { BannerComponent } from './banner/banner.component';
 import { OurComponent } from './our/our.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BannerComponent,
-    OurComponent
+    OurComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,

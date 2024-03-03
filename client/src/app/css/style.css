@@ -1,57 +1,7 @@
 
 
 
-/** about section **/
 
-/* .about {
-     background: url(../images/about_bg.jpg);
-     background-size: cover;
-     background-position: center center;
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     padding-top: 90px;
-} */
-
-.about .titlepage {
-     padding-bottom: 0;
-     max-width: 554px;
-     float: right;
-}
-
-.about .titlepage h2 {
-     padding-bottom: 30px;
-     color: #fff;
-}
-
-.about .titlepage p {
-     font-weight: 400;
-     font-size: 17px;
-     line-height: 30px;
-     color: #fff;
-     padding-bottom: 29px;
-}
-
-.about_img figure {
-     margin: 0;
-}
-
-.about_img figure img {
-     width: 100%;
-     margin-bottom: -11px;
-}
-
-.about .read_more {
-     color: #fff;
-     background: #3e0bce;
-}
-
-.about .read_more:hover {
-     color: #f0390f;
-     background: #3e0bce;
-}
-
-
-/** end about section **/
 
 
 /** skating **/
