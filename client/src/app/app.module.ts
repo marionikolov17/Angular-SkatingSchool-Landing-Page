@@ -8,13 +8,15 @@ import { NgxBootstrapIconsModule, allIcons } from "ngx-bootstrap-icons";
 import { BannerComponent } from './banner/banner.component';
 import { OurComponent } from './our/our.component';
 import { AboutComponent } from './about/about.component';
+import { SkatingComponent } from './skating/skating.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BannerComponent,
     OurComponent,
-    AboutComponent
+    AboutComponent,
+    SkatingComponent
   ],
   imports: [
     BrowserModule,

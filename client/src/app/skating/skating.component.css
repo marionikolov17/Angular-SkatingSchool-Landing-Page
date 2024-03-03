@@ -1,0 +1,29 @@
+/** skating **/
+
+.skating {
+  background: #fff;
+  padding: 90px 30px 90px 30px;
+}
+
+.skating .titlepage p {
+  padding-top: 15px !important;
+  line-height: 30px;
+  font-size: 17px;
+  color: #262626;
+}
+
+.skating-box figure {
+  margin: 0;
+}
+
+.skating-box figure img {
+  max-width: 100%;
+  margin-bottom: 35px;
+}
+
+.skating .read_more::before {
+  left: 89px;
+}
+
+
+/** end skating **/
